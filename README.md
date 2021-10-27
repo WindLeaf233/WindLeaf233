@@ -10,5 +10,5 @@
 
 ### Stats & Languages
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=buefy&show_icons=true&hide=stars&hide_border=true" alt="WindLeaf233's Github Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&theme=buefy&hide_border=true" alt="Top Languages"/> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=buefy&show_icons=true&hide=stars&hide_border=true&count_private=true" alt="WindLeaf233's Github Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&theme=buefy&hide_border=true" alt="Top Languages"/> |
 | ---------- | ---------- |
