@@ -3,7 +3,7 @@
 ### About me
 
 - 👀 A member of `MineStar Studio`
-- 🔥 Now learning `Kotlin`, `Java` and `Python3`
+- 🔥 Now learning `Kotlin`, `Java`, `Rust` and `Python3`
 - 🏫 A senior high student in China
 - ☕ Work hard on studying and coding
 - 😃 Happy every day
