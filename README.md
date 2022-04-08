@@ -1,12 +1,14 @@
-***Hello! WindLeaf_qwq is here :)***
+***Hello! WindLeaf is here :)***
 
 ### About me
 
-- 👀 A member of `MineStar Studio`
+- 👀 A member of `MineStar Studio` and `Phantom Studio`
 - 🔥 Now learning `Kotlin`, `Java`, `Rust` and `Python3`
 - 🏫 A senior high student in China
 - ☕ Work hard on studying and coding
 - 😃 Happy every day
+
+Actually, there is no time for me to code - I'm busy on studying.
 
 ### Stats & Languages
 
