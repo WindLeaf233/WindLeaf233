@@ -37,7 +37,7 @@ Want to contact me? Here are some social media contacts.
         "username": "WindLeaf_qwq",
         "url": "https://twitter.com/windleaf_qwq"
     },
-    "e-mail": [
+    "e-mails": [
         "me@windleaf.ml",
         "mc.windleaf@foxmail.com",
         "mc.windleaf@gmail.com"
