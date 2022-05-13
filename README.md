@@ -8,7 +8,7 @@ I'm so infatuated with coding that I even do it every weekends, and I'm trying t
 
 - 🔥 Learning `Kotlin`, `Java` and other sth
 - 🏫 A senior high student from Xinjiang, China
-- ☕ Coding is the thing I'm crazy about
+- :octocat: Coding is the thing I'm crazy about
 - 😃 I enjoy the world and everything
 - 🎮 By the way, I like **Minecraft** and **Pop-Music** VERY MUCH
 
