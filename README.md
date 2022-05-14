@@ -10,7 +10,7 @@ I'm so infatuated with coding that I even do it every weekends, and I'm trying t
 - 🏫 A senior high student from Xinjiang, China
 - :octocat: Coding is the thing I'm crazy about
 - 😃 I enjoy the world and everything
-- 🎮 By the way, I like **Minecraft** and **Pop-Music** VERY MUCH
+- 🎮 By the way, I like **Minecraft** and **Pop & Future-Bass Music** VERY MUCH
 
 ### Stats & Languages I Used
 
