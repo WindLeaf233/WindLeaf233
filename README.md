@@ -7,10 +7,12 @@
 I'm so infatuated with coding that I even do it every weekends, and I'm trying to improve my coding skills 🤪
 
 - 🔥 Learning `Kotlin`, `Java` and other sth
-- 🏫 A senior high student from Xinjiang, China
-- :octocat: Coding is the thing I'm crazy about
+- 🐛 `OOP`, `Backend` are my learning tags
+- 👨‍🎓 A senior high student from Xinjiang, China
+- 💻 Coding is the thing I'm crazy about
 - 😃 I enjoy the world and everything
-- 🎮 By the way, I like **Minecraft** and **Pop & Future-Bass Music** VERY MUCH
+- 🎮 By the way, **I like Minecraft VERY MUCH**
+- 🎵 **Pop & Future Bass** music also attract me a lot
 
 ### Stats & Languages I Used
 
@@ -22,7 +24,8 @@ I'm so infatuated with coding that I even do it every weekends, and I'm trying t
 I believe that I can complete these challenge perfectly 😆
 
 * Independently implement a comparatively large and useful Minecraft plugin
-* Learn `Java` in depth
+* Learn `Java` in depth, and 
+* I'm also trying to help write tiny utility plugins for some Minecraft servers
 
 ### Contact
 
