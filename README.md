@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm so infatuated with coding that I even do it every weekends, and I'm trying to improve my coding skills 🤪
+I'm so infatuated with coding that I even do it every weekends, and I'm trying my best to improve my coding skills 🤪
 
 - 🔥 Learning `Kotlin`, `Java` and other sth
 - 🐛 `OOP`, `Backend` are my learning tags
