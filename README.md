@@ -25,7 +25,7 @@ I believe that I can complete these challenge perfectly 😆
 
 * Independently implement a comparatively large and useful Minecraft plugin
 * Learn `Java` in depth, and 
-* I'm also trying to help write tiny utility plugins for some Minecraft servers
+* *I'm also trying to help write tiny utility plugins for some Minecraft servers*
 
 ### Contact
 
