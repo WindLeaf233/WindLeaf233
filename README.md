@@ -6,13 +6,13 @@
 
 I'm so infatuated with coding that I even do it every weekends, and I'm trying my best to improve my coding skills 🤪
 
-- 🔥 Learning `Kotlin`, `Java` and other sth
+- 🔥 Learning `Kotlin`, `Java`, `Python`, *`Vue`* and other sth
 - 🐛 `OOP`, `Backend` are my learning tags
 - 👨‍🎓 A senior high student from Xinjiang, China
 - 💻 Coding is the thing I'm crazy about
 - 😃 I enjoy the world and everything
 - 🎮 By the way, **I like Minecraft VERY MUCH**
-- 🎵 **Pop & Future Bass** music also attract me a lot
+- 🎵 **Pop & EDM** music also attract me a lot
 
 ### Stats & Languages I Used
 
@@ -31,15 +31,18 @@ I believe that I can complete these challenge perfectly 😆
 
 Want to contact me? Here are some social media contacts.
 
-```JSON
-{
+```JavaScript
+const myContacts = {
     "qq": 3584033226,
     "wechat": "WindLeaf_qwq",
     "netease_music": "WindLeaf_qwq",
+    "bilibili": "https://space.bilibili.com/157395160",
+    "gitee": "https://gitee.com/WindLeaf_qwq",
     "twitter": {
         "username": "WindLeaf_qwq",
         "url": "https://twitter.com/windleaf_qwq"
     },
+    "telegram": "https://t.me/WindLeaf_qwq",
     "e-mails": [
         "me@windleaf.ml",
         "mc.windleaf@foxmail.com",
